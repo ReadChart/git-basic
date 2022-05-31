@@ -8,7 +8,7 @@ We will learn the following git operations:
 - `commit` changes
 - `push` local commits to publish them to GitHub
 - `pull` changes from the remote repository
-- 'branch' create a new branch named "branch-1" and push to Github
+- `branch` create a new branch named "branch-1" and push to Github
 
 Other useful commands to see what is going on the git repository:
 
@@ -17,9 +17,9 @@ Other useful commands to see what is going on the git repository:
 
 ## Exercises
 
-- [ ] Fork this repo
-- [ ] Clone this repo
-- [ ] Update the README: add some lines to the end and push them to GitHub
+- [x] Fork this repo
+- [x] Clone this repo
+- [x] Update the README: add some lines to the end and push them to GitHub
 - [ ] Create a new file called `newfile.txt`, add some contents to it and push it to GitHub
 - [ ] Update newfile.txt and push the changes to GitHub
 - [ ] Open the repository on GitHub and make changes to `newfile.txt`
@@ -29,3 +29,9 @@ Other useful commands to see what is going on the git repository:
 ## Practice Output 
 1. Your repo url in Github
 2. Your answer for What is the difference between `add`, `commit`, and `push`?
+
+## Some Lines
+
+some lines
+
++ also some lines
