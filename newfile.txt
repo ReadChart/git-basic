@@ -3,3 +3,4 @@ git commit - Record changes to the repository. This moves staged changes from wo
 git push - Update remote refs along with associated objects. This updates the remote repository with latest local changes, if there are conflicts, you should pull the remote content and resolve the conflicts.
 
 /* contents need to be removed */
+/* contents need to be removed */
